@@ -1,4 +1,4 @@
-# Assignment-no-3-Hypothesis-testing
+# Hypothesis-testing
 
 
 Q.1
